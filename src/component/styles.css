@@ -1,0 +1,13 @@
+.container input {
+    height: 36px;
+    padding: 0px 14px;
+  }
+  
+  /* .container label {
+    height: 36px;
+    top: -6px;
+  } 
+  
+  /* .container label[data-shrink="true"] {
+    top: 0;
+  } */
